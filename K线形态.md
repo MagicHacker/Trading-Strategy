@@ -42,3 +42,54 @@
 
 # 三角形形态
 
+## 上升三角形
+
+当价格的低点一个比一个高，形成了底底高。接下来当价格突破阻力位就形成了顶顶高。这时上升趋势的两个架构就成立了，分别是底底高和顶顶高，价格上升趋势强劲，大概率继续上涨。
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240129175646535.png" alt="image-20240129175646535" style="zoom:50%;" />
+
+## 下跌三角形
+
+当价格的高点一个比一个低时，形成了顶顶低，接下来，当价格跌破支撑位就会形成底底低，这时，下跌趋势的两个架构形成了，分别是顶顶低和底底低，价格下跌的动能增加，大概率继续下跌。
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240129180819000.png" alt="image-20240129180819000" style="zoom:50%;" />
+
+## 上升楔形三角形
+
+当价格在上升趋势中，低点和高点一个比一个高，但是高点上升的动能越来越小，上升幅度跟着变小，所以价格大概率下跌。当价格跌破低点的颈线就形成了底底低，后市看跌。
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240129182109022.png" alt="image-20240129182109022" style="zoom:50%;" />
+
+## 下跌楔形三角形
+
+当在下跌趋势时，低点和高点一个比一个低，但是低点下跌的动能越来越小，下跌幅度跟着变小，价格最终大概率上涨。当价格突破高点的趋势线就形成了顶顶高，后市看涨。
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240129200708752.png" alt="image-20240129200708752" style="zoom:50%;" />
+
+## 上升通道
+
+当价格的高点和低点一个比一个高时，就形成了一个上升通道。当价格跌破上升通道就会形成底底低，卖家的动能越来越强，后市看跌。
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240129201606209.png" alt="image-20240129201606209" style="zoom:50%;" />
+
+## 下跌通道
+
+当价格的高点和低点一个比一个低时，就形成了下跌通道。当价格突破下跌通道就会形成顶顶高，买家的动能越来越强，后市看涨。
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240129201822758.png" alt="image-20240129201822758" style="zoom:50%;" />
+
+## 对等三角形
+
+当价格的低点一个比一个高，高点一个比一个低时，价格进入盘整阶段，暂时没有方向。如果价格向上突破下跌趋势线，形成了顶顶高，买家动能强劲，后市看涨。如果价格向下跌破了上升趋势线，形成了底底低，卖家动能强劲，后市看跌。
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240129202047592.png" alt="image-20240129202047592" style="zoom:50%;" />
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240129202117089.png" alt="image-20240129202117089" style="zoom:50%;" />
+
+## 横盘通道
+
+当价格的低点一样低，高点一样高，这时进入盘整阶段，暂时没有方向。当价格向上突破阻力位时，形成了顶顶高，后市看涨；当价格向下跌破了支撑位时，形成了底底低，后市看跌。
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240129202516503.png" alt="image-20240129202516503" style="zoom:50%;" />
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240129202540649.png" alt="image-20240129202540649" style="zoom:50%;" />
