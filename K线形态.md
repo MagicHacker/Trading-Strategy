@@ -30,15 +30,15 @@
 
 # 双顶
 
-当价格突破不了前高，形成不了顶顶高，代表上升趋势的动能减弱，再加上价格跌破双顶的颈线，价格就由上升趋势转为下跌趋势。
+当价格突破不了前高，形成不了顶顶高，代表上升趋势的动能减弱，再加上价格跌破双顶的颈线，形成了顶顶低和底底低，价格就由上升趋势转为下跌趋势。
 
 <img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130152843023.png" alt="image-20240130152843023" style="zoom:50%;" />
 
 # 双底
 
+当价格跌破不了前低，形成不了底底低，代表下跌趋势的动能减弱了，如果价格再突破双底的颈线，形成了顶顶高和底底高，价格就由下跌趋势转为上升趋势。
 
-
-
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130153359855.png" alt="image-20240130153359855" style="zoom:50%;" />
 
 # 三重顶+三重底形态
 
