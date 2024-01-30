@@ -16,6 +16,8 @@
 
 下跌趋势的原理就是通过卖家强劲的抛售动能形成了顶顶低和底底低。
 
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130105647305.png" alt="image-20240130105647305" style="zoom:50%;" />
+
 # 反转趋势的架构
 
 一个上升趋势的反转形成下跌趋势一定要跌破之前的低点才会成立。
