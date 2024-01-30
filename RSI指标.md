@@ -38,5 +38,8 @@ RSI全名为相对强弱指标，这是一个可以测量价格动能的指标�
 
 ## 下跌趋势的背离
 
+当价格处在下跌趋势时，高点一个比一个低形成了顶顶低，但是RSI高点却一个比一个高，意味着有买家介入，但是买入力量不足以使价格形成顶顶高，买入力量不足，代表着是散户在进行买入，主力还没有介入，所以下跌趋势大概率会延续，后市看跌。
 
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130205636846.png" alt="image-20240130205636846" style="zoom:50%;" />
 
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130205718221.png" alt="image-20240130205718221" style="zoom:50%;" />
