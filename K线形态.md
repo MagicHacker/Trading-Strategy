@@ -7,6 +7,8 @@
 
 上升趋势的原理就是通过买家强劲的拉升动能形成了顶顶高和底底高。
 
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130105514657.png" alt="image-20240130105514657" style="zoom:50%;" />
+
 一个下跌趋势包含两点：
 
 + 高点一个比一个低称为顶顶低。
