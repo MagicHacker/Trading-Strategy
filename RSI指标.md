@@ -22,11 +22,21 @@ RSI全名为相对强弱指标，这是一个可以测量价格动能的指标�
 
 ### 底背离
 
+当价格在下跌趋势时，低点一个比一个低，但是RSI的低点却一个比一个高，意味着下跌趋势的动能减弱了，下跌趋势大概率反转为上升趋势。
 
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130205014429.png" alt="image-20240130205014429" style="zoom:50%;" />
 
-
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130203906074.png" alt="image-20240130203906074" style="zoom:50%;" />
 
 ## RSI趋势延续的背离
+
+ ## 上升趋势的背离
+
+
+
+
+
+## 下跌趋势的背离
 
 
 
