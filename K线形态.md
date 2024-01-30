@@ -20,11 +20,25 @@
 
 # 反转趋势的架构
 
-一个上升趋势的反转形成下跌趋势一定要跌破之前的低点才会成立。
+一个上升趋势的反转形成下跌趋势一定要跌破之前的低点才会成立。买家动能的流失形成不了新的顶顶高和底底高，然后卖家的动能介入形成了新的顶顶低和底底低。上升趋势反转为下跌趋势。
 
-一个下跌趋势的反转形成上涨趋势一定要突破前一个高点才会成立。
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130111829702.png" alt="image-20240130111829702" style="zoom:50%;" />
 
-# 双顶+双底形态
+一个下跌趋势的反转形成上涨趋势一定要突破前一个高点才会成立。卖家的动能越来越少形成不了新的顶顶低和底底低，随着买家动能的介入形成了新的顶顶高和底底高，下跌趋势反转为上升趋势。
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130112148394.png" alt="image-20240130112148394" style="zoom:50%;" />
+
+# 双顶
+
+当价格突破不了前高，形成不了顶顶高，代表上升趋势的动能减弱，再加上价格跌破双顶的颈线，价格就由上升趋势转为下跌趋势。
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240130152843023.png" alt="image-20240130152843023" style="zoom:50%;" />
+
+# 双底
+
+
+
+
 
 # 三重顶+三重底形态
 
