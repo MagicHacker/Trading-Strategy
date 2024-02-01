@@ -8,3 +8,8 @@ ATR全名是Average True Range，这是一个测量价格波动大小（不是�
 
 <img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240201201655401.png" alt="image-20240201201655401" style="zoom:50%;" />
 
+# ATR设置止损
+
+
+
+<img src="/Users/zhangxuan/Library/Application Support/typora-user-images/image-20240201202423187.png" alt="image-20240201202423187" style="zoom:50%;" />
